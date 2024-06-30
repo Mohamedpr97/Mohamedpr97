@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamed-samy-24b8b51b9/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Samy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mosamy7/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Samy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
